@@ -4,7 +4,7 @@
 
 ## ⚙️ Skills
 
-Java · Python · MySQL · Git · APIs · HTML/CSS
+Java · Python · SQL · NoSQL · Git · HTML/CSS/JS
 
 📫 joaopedrosoupa@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/joão-pedro-souza-passos-a28508350/)
