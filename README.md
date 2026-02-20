@@ -21,6 +21,13 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
+### 📈 Estatísticas do GitHub
+
+[![Estatísticas do João](https://github-readme-stats.vercel.app/api?username=Jpsoupa1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/Jpsoupa1)
+
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Jpsoupa1&layout=compact&langs_count=6&theme=dracula)](https://github.com/Jpsoupa1)
+
+---
 
 ### 📫 Como me encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jpsoupa/)
