@@ -6,13 +6,6 @@
 
 ---
 
-### 🚀 O que estou construindo e estudando
-- 🔭 Liderando o desenvolvimento do **UptimeKube**, um SaaS de monitoramento distribuído com **Java 21, Spring Boot, Docker e Kubernetes**.
-- 🌱 Estudando padrões avançados de sistemas distribuídos e orquestração de containers.
-- 👨‍💻 Desenvolvi o **TalentQuest**, um motor de decisão híbrido para recrutamento usando **Spring Boot e React**.
-
----
-
 ### 🛠️ Minhas Tecnologias e Ferramentas
 
 **Linguagens & Frameworks:** ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -30,8 +23,10 @@
 ---
 
 ### 📈 Estatísticas do GitHub
-*(Mantenha a imagem das suas estatísticas do GitHub que você já tem configurada aqui!)*
-
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jpsoupa1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jpsoupa1&layout=compact&langs_count=6&theme=dracula"/>
+</div>
 ---
 
 ### 📫 Como me encontrar
